@@ -19,7 +19,7 @@ function App() {
           Learn React with Manteh
         </a>
 
-        <a>NEW BUTTON</a>
+        <a>NEW BTN</a>
       </header>
     </div>
   );
