@@ -18,6 +18,8 @@ function App() {
         >
           Learn React with Manteh
         </a>
+
+        <a>NEW BUTTON</a>
       </header>
     </div>
   );
