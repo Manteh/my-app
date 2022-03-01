@@ -19,7 +19,8 @@ function App() {
           Learn React with Manteh
         </a>
 
-        <a>NEW COOL BUTTOn</a>
+        <a>NEW COOL BTN</a>
+
       </header>
     </div>
   );
